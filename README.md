@@ -1,0 +1,2 @@
+# inventarioProductos
+Sistema académico 
